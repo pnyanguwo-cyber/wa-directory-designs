@@ -1,0 +1,193 @@
+{
+  "id": "biz_sarudzai",
+  "name": "Sarudzai's Bespoke Wedding & Event Floristry, Balloon Styling & Décor Hire",
+  "slug": "sarudzai-bespoke-floristry",
+  "city": "Bulawayo",
+  "area": "Suburbs",
+  "areas": ["Suburbs", "Hillside", "Khumalo"],
+  "bio": "A boutique studio for weddings, lobola negotiations, milestone birthdays and corporate launches. Fresh blooms sourced weekly from local growers, balloon installations built in-house, and a hire inventory of arches, backdrops, chair covers and tableware.",
+  "logo_url": null,
+  "verified": true,
+  "rating": 4.6,
+  "review_count": 88,
+  "years_on_directory": 5,
+  "category": "Florist",
+  "categories": ["Florist", "Event Décor"],
+  "phone_clean": "263719555123",
+  "phone_type": "whatsapp",
+  "voice_phone": null,
+  "email": "studio@sarudzaiflorals.co.zw",
+  "website": "https://sarudzaiflorals.co.zw",
+  "address": "9A Fife Street, Bulawayo",
+  "lat": -20.15,
+  "lng": 28.5833,
+  "show_location": true,
+  "theme": {
+    "design": "classic",
+    "orientation": "stacked",
+    "font": "editorial",
+    "accent": "#7C3AED",
+    "header": "",
+    "hero": "",
+    "shop": "#141414",
+    "contact": "#FFFFFF"
+  },
+  "blocks": {
+    "tagline": "Hand-tied bridal bouquets, statement arches, balloon garlands and full venue styling — from the first sketch to the final petal",
+    "hero": "Every wedding starts with a conversation and ends with a room full of people who can't stop taking photos. Share your mood board and we'll handle flowers, balloons, draping and every last chair ribbon — delivery, installation and pack-down included.",
+    "services": "Bridal parties & hand-tied bouquets\nCeremony arches & backdrops\nBalloon garlands & installations\nCentrepieces & table styling\nDécor hire: draping, chair covers, candelabras\nVenue pack-down & cleanup",
+    "faq": [
+      {
+        "q": "How far ahead should we book?",
+        "a": "Peak-season Saturdays (September to December) are usually reserved 6–9 months ahead. Off-peak dates can often be confirmed with 6 weeks' notice."
+      },
+      {
+        "q": "Do you deliver and set up on the day?",
+        "a": "Yes — delivery, installation and styling are included in every package quote, and we return after the event to collect all hire items."
+      },
+      {
+        "q": "Can we hire pieces without the flowers?",
+        "a": "Absolutely. Arches, backdrops, candelabras and chair covers are available as dry hire with a refundable deposit."
+      },
+      {
+        "q": "What is included in a consultation?",
+        "a": "A one-hour session at the studio or over WhatsApp video, a mood board, an itemised quote, and one free revision."
+      }
+    ],
+    "hours": [
+      { "day": "Monday", "open": "", "close": "" },
+      { "day": "Tuesday", "open": "08:00", "close": "17:30" },
+      { "day": "Wednesday", "open": "08:00", "close": "17:30" },
+      { "day": "Thursday", "open": "08:00", "close": "17:30" },
+      { "day": "Friday", "open": "08:00", "close": "17:30" },
+      { "day": "Saturday", "open": "09:00", "close": "14:00" },
+      { "day": "Sunday", "open": "", "close": "" }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1487530811176-3780de880c2d?auto=format&fit=crop&w=1200&q=80"
+    ]
+  },
+  "testimonials": [
+    {
+      "rating": 5,
+      "comment": "Sarudzai and her team turned our hillside garden wedding into something out of a magazine. The arch she built framed the whole valley, the balloon garland survived a windy afternoon, and the pack-down was so quiet we barely noticed. Worth every dollar.",
+      "name": "Nyasha & Rudo",
+      "created_at": "2026-08-15T18:00:00.000Z"
+    },
+    {
+      "rating": 5,
+      "comment": "We hired Sarudzai's studio for our corporate launch after seeing her work at a friend's wedding, and it was the single best vendor decision we made. She took a rough brief — 'modern, botanical, not cheesy' — and came back with a mood board that nailed it on the first pass. The floral wall became the photo moment of the night, the table styling held up through 200 guests, and her crew handled setup around our soundcheck without a single reminder. Guests are still asking who did the flowers, and honestly, so am I — the fresh eucalyptus scent in the marquee was something no photograph will ever do justice to.",
+      "name": "Tendai K. (Marula Events)",
+      "created_at": "2026-05-09T11:30:00.000Z"
+    },
+    {
+      "rating": 5,
+      "comment": "The balloon arch for my daughter's first birthday was gorgeous and the price was fair.",
+      "name": "Sipho D.",
+      "created_at": "2026-02-20T14:10:00.000Z"
+    },
+    {
+      "rating": 4,
+      "comment": "Beautiful work. Communication on WhatsApp was quick, though delivery to Hillside ran an hour late.",
+      "name": "Vuyelwa M.",
+      "created_at": "2025-12-06T16:40:00.000Z"
+    },
+    {
+      "rating": 5,
+      "comment": "Her lobola ceremony styling made my in-laws cry. Reserved, elegant, exactly what we asked for.",
+      "name": "Tambu & Farai",
+      "created_at": "2026-01-17T10:05:00.000Z"
+    },
+    {
+      "rating": 5,
+      "comment": "Dry-hired the draping and candelabras — everything arrived spotless, on time, and the deposit came back fast.",
+      "name": "Kudzai P.",
+      "created_at": "2026-04-03T09:55:00.000Z"
+    }
+  ],
+  "socials": {
+    "instagram": "https://instagram.com/sarudzai.florals",
+    "facebook": "https://facebook.com/SarudzaiFlorals"
+  },
+  "items": [
+    {
+      "id": "itm_srz_01",
+      "name": "Hand-tied Bridal Bouquet — Classic",
+      "slug": "hand-tied-bridal-bouquet-classic",
+      "price": 85.0,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "category": "Bouquets",
+      "image_url": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80",
+      "description": "Seasonal blooms, hand-tied and ribbon finished."
+    },
+    {
+      "id": "itm_srz_02",
+      "name": "Ceremony Arch — Fresh Florals",
+      "slug": "ceremony-arch-fresh-florals",
+      "price": null,
+      "price_type": "on_request",
+      "availability_status": "availability_unknown",
+      "currency_code": "USD",
+      "category": "Arches",
+      "image_url": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&w=800&q=80",
+      "description": "Custom-built arch, quoted after consultation."
+    },
+    {
+      "id": "itm_srz_03",
+      "name": "Balloon Garland — 6 metres",
+      "slug": "balloon-garland-6-metres",
+      "price": 120.0,
+      "price_type": "fixed",
+      "availability_status": "available_on_order",
+      "currency_code": "USD",
+      "category": "Balloons",
+      "image_url": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=800&q=80",
+      "description": "Colour-matched to your palette; installed on site."
+    },
+    {
+      "id": "itm_srz_04",
+      "name": "Centrepiece Cluster — Table of 10",
+      "slug": "centrepiece-cluster-table-of-10",
+      "price": 65.0,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "category": "Table styling",
+      "image_url": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=800&q=80",
+      "description": "Low arrangements with candles for one table."
+    },
+    {
+      "id": "itm_srz_05",
+      "name": "Draping Hire — Backdrop 3m",
+      "slug": "draping-hire-backdrop-3m",
+      "price": 150.0,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "category": "Hire",
+      "image_url": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=800&q=80",
+      "description": "Free-standing backdrop drape, delivery included."
+    },
+    {
+      "id": "itm_srz_06",
+      "name": "Candelabra Set of 5 — Hire",
+      "slug": "candelabra-set-of-5-hire",
+      "price": 75.0,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "category": "Hire",
+      "image_url": "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=800&q=80",
+      "description": "Gold finish, polished and candle-ready."
+    }
+  ]
+}

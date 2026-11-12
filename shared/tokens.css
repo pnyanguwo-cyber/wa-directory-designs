@@ -1,0 +1,67 @@
+/*
+ * Shared design tokens — canonical reference for every theme in
+ * wa-directory-designs.
+ *
+ * Each theme ships its own self-contained theme/theme.css and does NOT import
+ * this file at runtime. Instead this file documents the exact values every
+ * theme derives from ThemeSiteView data, so previews stay visually consistent
+ * and the wa.directory integration stays predictable.
+ *
+ * The derivation rules mirror lib/site-view.ts + lib/image-luminance.ts in the
+ * wa.directory app (verified against source 2026-11).
+ */
+
+:root {
+  /* ---- WA Directory brand constants (app chrome, not theme-owned) ---- */
+  --wa-green-500: #25d366;
+  --wa-green-600: #128c7e;
+  --wa-green-700: #075e54;
+
+  /* ---- Neutral ink + surfaces (Tailwind whatsapp/surface scale in the app) ---- */
+  --ink: #111b21;          /* text-primary */
+  --ink-muted: #54656f;    /* text-secondary */
+  --surface: #f0f2f5;
+  --danger: #ea4335;
+
+  /* ---- Accent ----
+   * site.accent is a validated #RRGGBB hex. Themes must derive every accent
+   * tint through color-mix() so a single hex drives the whole palette. */
+  --accent: #b45309; /* example only — always comes from site.accent */
+  --accent-soft: color-mix(in srgb, var(--accent) 10%, transparent);
+  --accent-muted: color-mix(in srgb, var(--accent) 18%, transparent);
+  --accent-glow: color-mix(in srgb, var(--accent) 35%, transparent);
+
+  /* ---- Contrast rules (relative luminance of the hex) ----
+   * isDark:      luminance < 0.25  -> treat surface/accent as dark
+   * ink on fill: luminance > 0.35  -> dark ink (#111B21), else white (#FFFFFF)
+   * accentCtaText + contactCtaText are precomputed by the app with this rule;
+   * themes should consume the provided fields rather than recompute. */
+
+  /* ---- Hero wash tiers (lib/image-luminance.ts HERO_WASH_DEFAULT) ----
+   * Over a cover image the app supplies site.heroWash:
+   *   default { scrimL: 0.65, scrimM: 0.45, scrimB: 0.5 }
+   *   dark image (lum < 0.35)  -> { 0.5, 0.32, 0.42 }  (lighter scrim)
+   *   light image (lum > 0.62) -> { 0.78, 0.6, 0.58 }  (heavier scrim)
+   * Apply as a linear-gradient(180deg, rgba(0,0,0,L), rgba(0,0,0,M) 45%,
+   * rgba(0,0,0,B) 100%) between the image and its text. */
+
+  /* ---- Radii (app tailwind.config.ts) ---- */
+  --radius-xl: 14px;
+  --radius-2xl: 18px;
+  --radius-3xl: 24px;
+  --radius-4xl: 32px;
+  --radius-pill: 9999px;
+
+  /* ---- Type ----
+   * site.fontPair.head / .body are FULL font-family strings produced by
+   * next/font (they embed the hashed webfont family names, e.g.
+   * "'__Playfair_Display_abc123', '__Playfair_Display_Fallback_abc123'").
+   * Themes must set font-family directly from these strings:
+   *   font-family: var(--atlas-head, inherit)
+   * site.fontPair.headVars ('var(--font-playfair)' for editorial, '' otherwise)
+   * is informational only — head/body are already resolved. */
+
+  /* ---- Motion ----
+   * Load/entrance animations must always guard:
+   *   @media (prefers-reduced-motion: reduce) { animation: none } */
+}
