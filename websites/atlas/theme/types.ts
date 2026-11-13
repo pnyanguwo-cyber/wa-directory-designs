@@ -35,7 +35,6 @@ export type ThemeSelection = {
   hero?: string
   shop?: string
   contact?: string
-  [key: string]: unknown
 }
 
 export type ThemeItem = {
