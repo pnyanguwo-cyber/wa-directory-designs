@@ -6,7 +6,7 @@
  * with a real SiteView, TypeScript accepts it with zero adapter code. */
 
 export type ThemeOrientation = 'catalogue' | 'stacked'
-export type ThemeMode = 'preview' | 'live'
+export type ThemeMode = 'preview' | 'live' | 'print'
 
 export type ThemeFontPair = {
   head: string
@@ -92,7 +92,7 @@ export type ThemeSiteView = {
   email: string
   theme: ThemeSelection
   fontKey: string
-  preset: string
+  preset?: unknown
   isPreset: boolean
   fontPair: ThemeFontPair
   accent: string
@@ -129,6 +129,6 @@ export type ThemeSiteView = {
 
 export type ThemeProps = {
   site: ThemeSiteView
-  orientation?: ThemeOrientation
+  orientation?: string
   mode?: ThemeMode
 }
