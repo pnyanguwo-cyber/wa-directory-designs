@@ -1,0 +1,63 @@
+{
+  "id": "biz_tapiwa",
+  "name": "Tapiwa Plumbing & Repairs",
+  "slug": "tapiwa-plumbing-repairs",
+  "city": "Harare",
+  "area": "Waterfalls",
+  "areas": ["Waterfalls", "Greendale", "Msasa"],
+  "bio": "Independent plumber covering Waterfalls, Greendale and Msasa. Blocked drains, burst geysers and leaky pipes fixed properly, with the parts to match.",
+  "logo_url": null,
+  "verified": false,
+  "rating": 0,
+  "review_count": 0,
+  "years_on_directory": 1,
+  "category": "Plumber",
+  "categories": ["Plumber"],
+  "phone_clean": "263772987654",
+  "phone_type": "voice",
+  "voice_phone": "+263 772 987 654",
+  "email": "tapiwa.repairs@gmail.com",
+  "website": null,
+  "address": "Msasa Industrial Area, Harare",
+  "lat": null,
+  "lng": null,
+  "show_location": true,
+  "theme": {
+    "design": "classic",
+    "orientation": "stacked",
+    "font": "modern",
+    "accent": "#0284C7",
+    "header": "",
+    "hero": "#0F172A",
+    "shop": "",
+    "contact": ""
+  },
+  "blocks": {
+    "tagline": "Blocked drains, geyser repairs & same-day emergency callouts",
+    "hero": "Reliable plumbing for homes and small businesses across Waterfalls, Greendale and Msasa. Call and describe the problem — I'll tell you straight what it needs and when I can be there.",
+    "services": "Leak detection & pipe repairs\nDrain unblocking & CCTV inspection\nGeyser replacement & repair\nBathroom & kitchen plumbing installations",
+    "faq": [
+      {
+        "q": "Do you handle emergency callouts?",
+        "a": "Yes — burst pipes and overflowing drains are treated as emergencies. Call the number above; if I can't answer I'll ring back within the hour."
+      },
+      {
+        "q": "How do I pay?",
+        "a": "Cash, EcoCash or bank transfer, payable on completion of the job. You'll get a clear quote before any work starts."
+      }
+    ],
+    "hours": [
+      { "day": "Monday", "open": "08:00", "close": "17:00" },
+      { "day": "Tuesday", "open": "08:00", "close": "17:00" },
+      { "day": "Wednesday", "open": "08:00", "close": "17:00" },
+      { "day": "Thursday", "open": "08:00", "close": "17:00" },
+      { "day": "Friday", "open": "08:00", "close": "17:00" },
+      { "day": "Saturday", "open": "08:00", "close": "12:00" },
+      { "day": "Sunday", "open": "", "close": "" }
+    ],
+    "gallery": []
+  },
+  "testimonials": [],
+  "socials": {},
+  "items": []
+}

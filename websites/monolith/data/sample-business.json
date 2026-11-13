@@ -1,0 +1,179 @@
+{
+  "id": "biz_komborero",
+  "name": "Komborero Tea Room",
+  "slug": "komborero-tea-room",
+  "city": "Harare",
+  "area": "Avondale",
+  "areas": ["Avondale", "Milton Park", "Newlands"],
+  "bio": "A small-batch tea room and kitchen in Avondale. We roast our own coffee, bake every morning, and plate nostalgic Zimbabwean comfort food the way your aunt would: generous, unhurried, and always with seconds offered.",
+  "logo_url": null,
+  "verified": true,
+  "rating": 4.8,
+  "review_count": 132,
+  "years_on_directory": 3,
+  "category": "Cafe",
+  "categories": ["Cafe", "Bakery", "Catering"],
+  "phone_clean": "263771234567",
+  "phone_type": "whatsapp",
+  "voice_phone": null,
+  "email": "hello@komborero.co.zw",
+  "website": "https://komborero.co.zw",
+  "address": "12 King George Road, Avondale, Harare",
+  "lat": -17.7861,
+  "lng": 31.0269,
+  "show_location": true,
+  "theme": {
+    "design": "editorial",
+    "orientation": "split",
+    "font": "grotesk",
+    "accent": "#B45309",
+    "header": "",
+    "hero": "",
+    "shop": "",
+    "contact": "#1C1917"
+  },
+  "blocks": {
+    "tagline": "Small-batch coffee, morning bakes & plates that remember home",
+    "hero": "Roasted in the courtyard, baked before sunrise. Our Avondale tea room serves slow mornings, honest plates and the kind of coffee people cross town for.",
+    "services": "Fresh roast coffee & loose-leaf tea\nMorning bakes: vetkoek, scones & rusks\nAll-day breakfast & light lunches\nEvent platters & office catering\nPreserves, chutneys & takeaway blends",
+    "faq": [
+      {
+        "q": "Can I order ahead on WhatsApp?",
+        "a": "Yes — send us your order on WhatsApp before 10:30 and it will be packed and waiting at the counter. Larger platters need a day's notice."
+      },
+      {
+        "q": "Is there parking nearby?",
+        "a": "There is free street parking along King George Road and a small gravel lot behind the building, shared with the florist next door."
+      },
+      {
+        "q": "Do you deliver?",
+        "a": "We deliver coffee beans and preserves across Harare's northern suburbs on Fridays. Hot food is collection-only for now."
+      },
+      {
+        "q": "Can you cater private events?",
+        "a": "We cater up to 60 guests — teas, platters and dessert tables. Message us at least 48 hours ahead so we can plan the menu with you."
+      }
+    ],
+    "hours": [
+      { "day": "Monday", "open": "07:00", "close": "17:00" },
+      { "day": "Tuesday", "open": "07:00", "close": "17:00" },
+      { "day": "Wednesday", "open": "07:00", "close": "17:00" },
+      { "day": "Thursday", "open": "07:00", "close": "17:00" },
+      { "day": "Friday", "open": "07:00", "close": "17:00" },
+      { "day": "Saturday", "open": "07:00", "close": "17:00" },
+      { "day": "Sunday", "open": "08:00", "close": "13:00" }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1484723091739-30a097e8f929?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1551024506-0bccd828d307?auto=format&fit=crop&w=1200&q=80"
+    ]
+  },
+  "testimonials": [
+    {
+      "rating": 5,
+      "comment": "The mbuya roast is the best cup of coffee I've had in Harare, and the vetkoek was still warm at 8am.",
+      "name": "Ropafadzo M.",
+      "created_at": "2026-09-14T10:20:00.000Z"
+    },
+    {
+      "rating": 5,
+      "comment": "Ordered platters for my mum's retirement do — delivered on time, beautifully arranged, and everyone asked who catered.",
+      "name": "Tinashe C.",
+      "created_at": "2026-06-02T15:45:00.000Z"
+    },
+    {
+      "rating": 4,
+      "comment": "Lovely quiet garden seating and honest prices. It does get busy on Saturdays after 10, so come early.",
+      "name": "Chipo N.",
+      "created_at": "2026-03-22T09:05:00.000Z"
+    },
+    {
+      "rating": 5,
+      "comment": "The chilli chutney alone is worth the drive across town. I buy three jars at a time.",
+      "name": "Blessing K.",
+      "created_at": "2025-11-30T12:30:00.000Z"
+    }
+  ],
+  "socials": {
+    "instagram": "https://instagram.com/komborero.tearoom",
+    "facebook": "https://facebook.com/KomboreroTeaRoom"
+  },
+  "items": [
+    {
+      "id": "itm_kmb_01",
+      "name": "Mbuya Roast Coffee — 250g",
+      "slug": "mbuya-roast-coffee-250g",
+      "price": 12.0,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "category": "Coffee",
+      "image_url": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?auto=format&fit=crop&w=800&q=80",
+      "description": "Our signature medium roast, ground or whole bean."
+    },
+    {
+      "id": "itm_kmb_02",
+      "name": "Vetkoek Six-Pack",
+      "slug": "vetkoek-six-pack",
+      "price": 6.0,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "category": "Bakes",
+      "image_url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+      "description": "Fried fresh each morning; best eaten the same day."
+    },
+    {
+      "id": "itm_kmb_03",
+      "name": "Masau & Ginger Preserve — 250ml",
+      "slug": "masau-ginger-preserve-250ml",
+      "price": 7.5,
+      "price_type": "fixed",
+      "availability_status": "available_on_order",
+      "currency_code": "USD",
+      "category": "Preserves",
+      "image_url": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?auto=format&fit=crop&w=800&q=80",
+      "description": "Wild masau fruit with a warm ginger finish."
+    },
+    {
+      "id": "itm_kmb_04",
+      "name": "Full Platter (10 guests)",
+      "slug": "full-platter-10-guests",
+      "price": null,
+      "price_type": "on_request",
+      "availability_status": "availability_unknown",
+      "currency_code": "USD",
+      "category": "Catering",
+      "image_url": null,
+      "description": "Mixed savoury and sweet platters, quoted per event."
+    },
+    {
+      "id": "itm_kmb_05",
+      "name": "Cold Rooibos Iced Tea — 1L",
+      "slug": "cold-rooibos-iced-tea-1l",
+      "price": 4.5,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "category": "Drinks",
+      "image_url": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=800&q=80",
+      "description": "Brewed rooibos over ice, lightly sweetened."
+    },
+    {
+      "id": "itm_kmb_06",
+      "name": "Chilli Chutney — 250ml",
+      "slug": "chilli-chutney-250ml",
+      "price": 5.0,
+      "price_type": "fixed",
+      "availability_status": "out_of_stock",
+      "currency_code": "USD",
+      "category": "Preserves",
+      "image_url": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=800&q=80",
+      "description": "Back soon — new batch bottles mid-month."
+    }
+  ]
+}
