@@ -1,0 +1,191 @@
+{
+  "id": "biz_masvingo",
+  "name": "Masvingo Agro Supplies",
+  "slug": "masvingo-agro-supplies",
+  "city": "Masvingo",
+  "area": "Rujeko",
+  "areas": ["Rujeko", "Mucheke", "Town Centre"],
+  "bio": "Farm inputs, fencing, water tanks and tools for smallholder farmers across Masvingo province. Stock arrives from Harare every Tuesday.",
+  "logo_url": null,
+  "verified": true,
+  "rating": 4.7,
+  "review_count": 41,
+  "years_on_directory": 5,
+  "category": "Farm Supplies",
+  "categories": ["Farm Supplies", "Hardware Store"],
+  "phone_clean": "263779456123",
+  "phone_type": "whatsapp",
+  "voice_phone": null,
+  "email": "orders@masvingoagro.co.zw",
+  "website": "masvingoagro.co.zw",
+  "address": "12 Robertson Street, Masvingo",
+  "lat": null,
+  "lng": null,
+  "show_location": true,
+  "theme": {
+    "design": "classic",
+    "orientation": "catalogue",
+    "font": "grotesk",
+    "accent": "#0B5A44",
+    "header": "",
+    "hero": "",
+    "shop": "",
+    "contact": ""
+  },
+  "blocks": {
+    "tagline": "Everything for the smallholder, one WhatsApp away",
+    "hero": "Send us your shopping list and we'll pack it while you drive in. New stock lands every Tuesday — ask on WhatsApp for anything you don't see on the shelf.",
+    "services": "Free quotes on bulk inputs\nDelivery to farms within 60km\nPoultry & livestock starter packs\nTank & irrigation installs by arrangement\nTrade accounts for co-ops & schools",
+    "faq": [
+      {
+        "q": "Do you deliver to farms?",
+        "a": "Yes — free within 20km of town and a per-km rate beyond that, up to 60km. Book a slot on WhatsApp."
+      },
+      {
+        "q": "When does new stock arrive?",
+        "a": "Every Tuesday from Harare. Ask to join the Tuesday WhatsApp list and we'll send what has landed."
+      },
+      {
+        "q": "Do you offer trade accounts?",
+        "a": "Co-ops, schools and repeat buyers can open a 14-day account with two references."
+      }
+    ],
+    "hours": [
+      { "day": "Monday", "open": "08:00", "close": "17:00" },
+      { "day": "Tuesday", "open": "08:00", "close": "17:00" },
+      { "day": "Wednesday", "open": "08:00", "close": "17:00" },
+      { "day": "Thursday", "open": "08:00", "close": "17:00" },
+      { "day": "Friday", "open": "08:00", "close": "17:00" },
+      { "day": "Saturday", "open": "08:00", "close": "14:00" },
+      { "day": "Sunday", "open": "", "close": "" }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1625246333195-78d9c8adad30?auto=format&fit=crop&w=800&q=70",
+      "https://images.unsplash.com/photo-1592982537447-7440770cbfc9?auto=format&fit=crop&w=800&q=70",
+      "https://images.unsplash.com/photo-1595434091143-b375ced5fe5c?auto=format&fit=crop&w=800&q=70",
+      "https://images.unsplash.com/photo-1592984602431-a3f0f0f7fd32?auto=format&fit=crop&w=800&q=70"
+    ]
+  },
+  "testimonials": [
+    {
+      "rating": 5,
+      "comment": "Ordered 20 bags of stockfeed on Monday and it was on my farm by Wednesday morning. No chasing anyone.",
+      "name": "Nyasha M.",
+      "created_at": "2025-11-05T10:00:00.000Z"
+    },
+    {
+      "rating": 5,
+      "comment": "They helped us spec a full drip line for the plot and every fitting arrived matching. Proper service.",
+      "name": "Edmore C.",
+      "created_at": "2025-09-12T09:30:00.000Z"
+    },
+    {
+      "rating": 4,
+      "comment": "Fair prices and the Tuesday WhatsApp list is genuinely useful. Parking outside is tight though.",
+      "name": "Ruramai T.",
+      "created_at": "2025-07-30T13:00:00.000Z"
+    }
+  ],
+  "socials": {
+    "facebook": "masvingoagro",
+    "instagram": "masvingo.agro"
+  },
+  "items": [
+    {
+      "id": "itm_ma_stockfeed",
+      "name": "Cattle Stockfeed 25kg",
+      "slug": "cattle-stockfeed-25kg",
+      "price": 18,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "image_url": "https://images.unsplash.com/photo-1570042225831-a5563a501131?auto=format&fit=crop&w=800&q=70",
+      "description": "High-protein dairy meal in a 25kg bag.",
+      "category": "Feed"
+    },
+    {
+      "id": "itm_ma_day-old-chicks",
+      "name": "Day-Old Chicks (per 10)",
+      "slug": "day-old-chicks",
+      "price": 12,
+      "price_type": "fixed",
+      "availability_status": "available_on_order",
+      "currency_code": "USD",
+      "image_url": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?auto=format&fit=crop&w=800&q=70",
+      "description": "Broiler chicks, straight-run. Pre-order for the weekly truck.",
+      "category": "Poultry"
+    },
+    {
+      "id": "itm_ma_fence-wire",
+      "name": "Diamond Mesh Fencing (10m roll)",
+      "slug": "diamond-mesh-fencing",
+      "price": 32,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "image_url": "https://images.unsplash.com/photo-1523419409543-a5e549c1faa8?auto=format&fit=crop&w=800&q=70",
+      "description": "Galvanised diamond mesh, 1.2m high, in 10m rolls.",
+      "category": "Fencing"
+    },
+    {
+      "id": "itm_ma_water-tank",
+      "name": "Water Tank 5000L",
+      "slug": "water-tank-5000l",
+      "price": null,
+      "price_type": "on_request",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "image_url": "https://images.unsplash.com/photo-1541976844346-f18aeac57b06?auto=format&fit=crop&w=800&q=70",
+      "description": "UV-stabilised roto tank. Fittings quoted to order.",
+      "category": "Water"
+    },
+    {
+      "id": "itm_ma_seed-maize",
+      "name": "Seed Maize 10kg",
+      "slug": "seed-maize-10kg",
+      "price": 22,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "image_url": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?auto=format&fit=crop&w=800&q=70",
+      "description": "Certified medium-season hybrid, treated seed.",
+      "category": "Seeds"
+    },
+    {
+      "id": "itm_ma_gumboots",
+      "name": "Gumboots Size 6–11",
+      "slug": "gumboots",
+      "price": 11,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "image_url": "https://images.unsplash.com/photo-1519415943484-9fa1873496d4?auto=format&fit=crop&w=800&q=70",
+      "description": "Steel-toe wellington boots in green, sizes 6 to 11.",
+      "category": "Footwear"
+    },
+    {
+      "id": "itm_ma_sprayer",
+      "name": "Knapsack Sprayer 16L",
+      "slug": "knapsack-sprayer-16l",
+      "price": 38,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "image_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=800&q=70",
+      "description": "16-litre knapsack sprayer with brass lance and spare seals.",
+      "category": "Tools"
+    },
+    {
+      "id": "itm_ma_wheelbarrow",
+      "name": "Farm Wheelbarrow",
+      "slug": "farm-wheelbarrow",
+      "price": 58,
+      "price_type": "fixed",
+      "availability_status": "out_of_stock",
+      "currency_code": "USD",
+      "image_url": "https://images.unsplash.com/photo-1621786030484-4c855b3f8119?auto=format&fit=crop&w=800&q=70",
+      "description": "Heavy-gauge 90-litre pan with solid wheel. Next truck due Tuesday.",
+      "category": "Tools"
+    }
+  ]
+}

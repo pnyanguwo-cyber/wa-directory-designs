@@ -1,0 +1,181 @@
+{
+  "id": "biz_chipos",
+  "name": "Chipo's Hardware & Home",
+  "slug": "chipos-hardware-home",
+  "city": "Chitungwiza",
+  "area": "Makoni",
+  "areas": ["Makoni", "Unit L", "St Mary's"],
+  "bio": "Family-run hardware store stocking power tools, paint, tiles and everything you need to finish your next project — with honest advice and next-day delivery around Chitungwiza.",
+  "logo_url": null,
+  "verified": true,
+  "rating": 4.9,
+  "review_count": 64,
+  "years_on_directory": 3,
+  "category": "Hardware Store",
+  "categories": ["Hardware Store", "Home & Garden"],
+  "phone_clean": "263773123456",
+  "phone_type": "whatsapp",
+  "voice_phone": null,
+  "email": "chipo.hardware@gmail.com",
+  "website": "chiposhardware.co.zw",
+  "address": "Makoni Shopping Centre, Stand 12, Chitungwiza",
+  "lat": -18.0126,
+  "lng": 31.0756,
+  "show_location": true,
+  "theme": {
+    "design": "classic",
+    "orientation": "catalogue",
+    "font": "warm",
+    "accent": "#B4531F",
+    "header": "",
+    "hero": "",
+    "shop": "",
+    "contact": "#2A1E14"
+  },
+  "blocks": {
+    "tagline": "Tools, paint, tiles & everything for your next project",
+    "hero": "Browse the shelves on WhatsApp or walk in — our team will help you pick the right materials, mix your paint and load your bakkie. Stock updates every morning.",
+    "services": "Paint mixing & colour matching\nKey cutting & padlocks\nFree quotes on tiling & plaster\nNext-day delivery around Chitungwiza\nBulk pricing for builders & schools\nTool repairs & battery refits",
+    "faq": [
+      {
+        "q": "Do you deliver?",
+        "a": "Yes — free around Makoni and Unit L, and a flat $5 further out in Chitungwiza. Same-day if you order before 10am."
+      },
+      {
+        "q": "Can I get a quote on WhatsApp?",
+        "a": "Absolutely. Send us a photo of your list or bill of quantities and we'll price it the same day."
+      },
+      {
+        "q": "Do you accept EcoCash?",
+        "a": "Yes — cash, EcoCash, and card at the till. Larger orders can go on 7-day terms for regulars."
+      }
+    ],
+    "hours": [
+      { "day": "Monday", "open": "07:30", "close": "17:30" },
+      { "day": "Tuesday", "open": "07:30", "close": "17:30" },
+      { "day": "Wednesday", "open": "07:30", "close": "17:30" },
+      { "day": "Thursday", "open": "07:30", "close": "17:30" },
+      { "day": "Friday", "open": "07:30", "close": "17:30" },
+      { "day": "Saturday", "open": "08:00", "close": "16:00" },
+      { "day": "Sunday", "open": "08:00", "close": "13:00" }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?auto=format&fit=crop&w=800&q=70",
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=800&q=70",
+      "https://images.unsplash.com/photo-1523413651479-597eb2da0ad6?auto=format&fit=crop&w=800&q=70",
+      "https://images.unsplash.com/photo-1615873968403-89e068629265?auto=format&fit=crop&w=800&q=70"
+    ]
+  },
+  "testimonials": [
+    {
+      "rating": 5,
+      "comment": "Bought a drill and paint for our kitchen reno — the team even colour-matched to our curtain fabric. Delivery was next morning.",
+      "name": "Rudo M.",
+      "created_at": "2025-11-18T09:00:00.000Z"
+    },
+    {
+      "rating": 5,
+      "comment": "Best prices on tiles in Chitungwiza. They loaded everything into my truck and threw in the spacers for free.",
+      "name": "Tendai K.",
+      "created_at": "2025-10-02T14:00:00.000Z"
+    },
+    {
+      "rating": 4,
+      "comment": "Great hardware, gets busy on Saturdays so WhatsApp first — they'll have your order packed and waiting.",
+      "name": "Munyaradzi C.",
+      "created_at": "2025-08-21T11:00:00.000Z"
+    }
+  ],
+  "socials": {
+    "facebook": "chiposhardware",
+    "instagram": "chipos.hardware"
+  },
+  "items": [
+    {
+      "id": "itm_ch_bosch-drill",
+      "name": "Bosch 18V Cordless Drill",
+      "slug": "bosch-18v-cordless-drill",
+      "price": 89,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "image_url": "https://images.unsplash.com/photo-1504148455328-c376907d081c?auto=format&fit=crop&w=800&q=70",
+      "description": "Brushless 18V driver with two 2.0Ah batteries, charger and carry case. Two-year warranty.",
+      "category": "Power Tools",
+      "subcategory": "Drills",
+      "brand": "Bosch"
+    },
+    {
+      "id": "itm_ch_pva-paint-5l",
+      "name": "Weatherguard PVA Paint 5L",
+      "slug": "pva-paint-5l",
+      "price": 24.5,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "image_url": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&w=800&q=70",
+      "description": "Weather-resistant acrylic PVA for exterior walls. Mix any colour while you wait.",
+      "category": "Paint"
+    },
+    {
+      "id": "itm_ch_porch-tiles",
+      "name": "Porcelain Floor Tiles (600 × 600)",
+      "slug": "porcelain-floor-tiles",
+      "price": null,
+      "price_type": "on_request",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "image_url": "https://images.unsplash.com/photo-1600585152220-90363fe7ce115?auto=format&fit=crop&w=800&q=70",
+      "description": "Matte porcelain with rectified edges, priced per square metre — send us your area for a quote.",
+      "category": "Tiles"
+    },
+    {
+      "id": "itm_ch_garden-hose",
+      "name": "Garden Hose 20m",
+      "slug": "garden-hose-20m",
+      "price": 18,
+      "price_type": "fixed",
+      "availability_status": "available_on_order",
+      "currency_code": "USD",
+      "image_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=800&q=70",
+      "description": "Reinforced ½-inch hose with brass fittings. Order today, collect tomorrow.",
+      "category": "Garden"
+    },
+    {
+      "id": "itm_ch_security-door",
+      "name": "Steel Security Door",
+      "slug": "steel-security-door",
+      "price": 145,
+      "price_type": "fixed",
+      "availability_status": "available_on_order",
+      "currency_code": "USD",
+      "image_url": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&w=800&q=70",
+      "description": "Heavy-gauge steel frame with three-point locking. Sizes made to order.",
+      "category": "Doors"
+    },
+    {
+      "id": "itm_ch_led-bulbs",
+      "name": "LED Bulb Pack (6 × 9W)",
+      "slug": "led-bulb-pack",
+      "price": 9.75,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "image_url": "https://images.unsplash.com/photo-1550985616-10810253b84d?auto=format&fit=crop&w=800&q=70",
+      "description": "Warm-white 9W LED bulbs, 800 lumens each, 15,000-hour lifespan.",
+      "category": "Lighting"
+    },
+    {
+      "id": "itm_ch_wheelbarrow",
+      "name": "Heavy-Duty Wheelbarrow",
+      "slug": "heavy-duty-wheelbarrow",
+      "price": 65,
+      "price_type": "fixed",
+      "availability_status": "out_of_stock",
+      "currency_code": "USD",
+      "image_url": "https://images.unsplash.com/photo-1621786030484-4c855b3f8119?auto=format&fit=crop&w=800&q=70",
+      "description": "100-litre pan with pneumatic wheel. New stock lands next week.",
+      "category": "Garden"
+    }
+  ]
+}

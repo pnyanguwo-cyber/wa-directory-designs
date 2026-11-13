@@ -1,0 +1,63 @@
+{
+  "id": "biz_tendai",
+  "name": "Tendai's Fresh Produce",
+  "slug": "tendai-fresh-produce",
+  "city": "Harare",
+  "area": "Mbare",
+  "areas": ["Mbare", "Highfield", "Glen View"],
+  "bio": "Market-fresh fruit and vegetables sold straight from the stall — call through your order and we'll have it weighed, packed and waiting.",
+  "logo_url": null,
+  "verified": false,
+  "rating": 0,
+  "review_count": 0,
+  "years_on_directory": 1,
+  "category": "Fresh Produce",
+  "categories": ["Fresh Produce"],
+  "phone_clean": "263775214908",
+  "phone_type": "voice",
+  "voice_phone": "+263 775 214 908",
+  "email": "tendai.produce@gmail.com",
+  "website": null,
+  "address": "Mbare Musika Market, Stand 44, Harare",
+  "lat": null,
+  "lng": null,
+  "show_location": true,
+  "theme": {
+    "design": "classic",
+    "orientation": "catalogue",
+    "font": "modern",
+    "accent": "#15803D",
+    "header": "",
+    "hero": "#12291B",
+    "shop": "",
+    "contact": ""
+  },
+  "blocks": {
+    "tagline": "Farm-fresh fruit & veg, weighed while you wait",
+    "hero": "The stall opens before sunrise most days. Call ahead for bulk boxes, seasonal specials or a delivery run to your gate.",
+    "services": "Bulk boxes for schools & restaurants\nDaily deliveries around Mbare & Highfield\nSeasonal specials every Friday\nWashed & packed on request",
+    "faq": [
+      {
+        "q": "Do you deliver?",
+        "a": "Around Mbare, Highfield and Glen View — free on orders over $10. Call before 9am for a same-day run."
+      },
+      {
+        "q": "How do I pay?",
+        "a": "Cash or EcoCash on collection. Bulk boxes can be held with a deposit."
+      }
+    ],
+    "hours": [
+      { "day": "Monday", "open": "06:00", "close": "17:00" },
+      { "day": "Tuesday", "open": "06:00", "close": "17:00" },
+      { "day": "Wednesday", "open": "06:00", "close": "17:00" },
+      { "day": "Thursday", "open": "06:00", "close": "17:00" },
+      { "day": "Friday", "open": "06:00", "close": "17:00" },
+      { "day": "Saturday", "open": "06:00", "close": "17:00" },
+      { "day": "Sunday", "open": "06:00", "close": "12:00" }
+    ],
+    "gallery": []
+  },
+  "testimonials": [],
+  "socials": {},
+  "items": []
+}
