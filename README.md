@@ -11,7 +11,7 @@ so a theme can be designed, reviewed and tested without touching the main app.
 | --- | --- | --- | --- |
 | `atlas` | `split`, `stacked` | No (per-item WhatsApp order links) | Service businesses with a product shelf |
 | `monolith` | `immersive`, `stacked` | No | Bold single-brand statements, galleries |
-| `market` | `catalogue`, `compact` | Yes (`useBusinessCart`) | Retail shops with large catalogues |
+| `market` | `catalogue`, `stacked` | Yes (`useBusinessCart`) | Retail shops with large catalogues |
 
 ## Layout
 
