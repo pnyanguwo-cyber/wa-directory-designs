@@ -1,4 +1,4 @@
-import MarketTheme from '@/theme'
+import MarketTheme from '@/theme/index'
 import { buildSampleSiteView, type SampleVariant } from '@/shim/site'
 import type { ThemeOrientation } from '@/theme/types'
 

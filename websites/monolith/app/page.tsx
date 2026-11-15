@@ -1,4 +1,4 @@
-import MonolithTheme from '@/theme'
+import MonolithTheme from '@/theme/index'
 import { buildSampleSiteView, type SampleVariant } from '@/shim/site'
 import type { ThemeOrientation } from '@/theme/types'
 

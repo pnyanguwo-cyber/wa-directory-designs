@@ -151,11 +151,7 @@ function buildSite(raw: RawSample, opts?: { itemTotal?: number }): ThemeSiteView
   const heroBg = raw.theme.hero || ''
   const shopBg = raw.theme.shop || '#FFFFFF'
   const contactBg = raw.theme.contact || '#FFFFFF'
-  const isHeroDark = coverImage
-    ? true
-    : heroBg
-      ? hexLuminance(heroBg) < 0.25
-      : accentDark
+  const isHeroDark = heroBg ? hexLuminance(heroBg) < 0.25 : false
   const orderDigits = raw.phone_type === 'whatsapp' ? raw.phone_clean : ''
 
   const services = (raw.blocks.services || '')
