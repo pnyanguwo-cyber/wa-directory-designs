@@ -1,9 +1,11 @@
 # Market
 
-Storefront-style layout for goods-and-service businesses on wa.directory. A slim
-sticky header opens into a hero that pairs copy with a photo collage, then the page
-flows stats → shop → services → gallery → reviews → FAQ → hours → contact, with a
-floating cart bar and drawer for WhatsApp ordering.
+Grand flagship storefront layout for goods-and-service businesses on wa.directory.
+Features a full-screen cinematic cover hero with typography overlays, pointer-reactive
+ambient lighting, multi-orb animated background, dynamic sticky header with scroll depth
+progress, real-time catalogue search & category filtering, interactive Quick-Inspect
+hardware modal with live quantity steppers, photo gallery lightbox, infinite marquee
+guarantees ticker, live store telemetry clock, and full WhatsApp cart integration.
 
 ## Layout
 

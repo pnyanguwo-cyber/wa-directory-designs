@@ -60,10 +60,10 @@
       { "day": "Sunday", "open": "08:00", "close": "13:00" }
     ],
     "gallery": [
-      "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?auto=format&fit=crop&w=800&q=70",
-      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=800&q=70",
-      "https://images.unsplash.com/photo-1523413651479-597eb2da0ad6?auto=format&fit=crop&w=800&q=70",
-      "https://images.unsplash.com/photo-1615873968403-89e068629265?auto=format&fit=crop&w=800&q=70"
+      "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?auto=format&fit=crop&w=1920&q=80",
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1523413651479-597eb2da0ad6?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1615873968403-89e068629265?auto=format&fit=crop&w=1200&q=80"
     ]
   },
   "testimonials": [
@@ -176,6 +176,43 @@
       "image_url": "https://images.unsplash.com/photo-1621786030484-4c855b3f8119?auto=format&fit=crop&w=800&q=70",
       "description": "100-litre pan with pneumatic wheel. New stock lands next week.",
       "category": "Garden"
+    },
+    {
+      "id": "itm_ch_makita-grinder",
+      "name": "Makita 115mm Angle Grinder (850W)",
+      "slug": "makita-115mm-angle-grinder",
+      "price": 78,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "image_url": "https://images.unsplash.com/photo-1572981779307-38b8cabb2407?auto=format&fit=crop&w=800&q=70",
+      "description": "Heavy-duty 850W motor with slim barrel grip and wheel guard for cutting metal, stone and brickwork.",
+      "category": "Power Tools",
+      "brand": "Makita"
+    },
+    {
+      "id": "itm_ch_dulux-gloss",
+      "name": "Dulux High-Gloss Enamel 5L",
+      "slug": "dulux-high-gloss-enamel-5l",
+      "price": 29.5,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "image_url": "https://images.unsplash.com/photo-1562259949-e8e7689d7828?auto=format&fit=crop&w=800&q=70",
+      "description": "Premium solvent-based enamel for interior and exterior woodwork, trim, gates, and steel frames.",
+      "category": "Paint"
+    },
+    {
+      "id": "itm_ch_brass-padlocks",
+      "name": "Solid Brass Padlock Set (3-Pack, 50mm)",
+      "slug": "solid-brass-padlock-set",
+      "price": 16,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "image_url": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=800&q=70",
+      "description": "Hardened steel shackle with brass tumbler mechanism. Keyed alike for gate, shed, and workshop security.",
+      "category": "Hardware"
     }
   ]
 }

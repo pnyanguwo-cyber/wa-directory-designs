@@ -64,7 +64,7 @@
       { "day": "Sunday", "open": "08:00", "close": "13:00" }
     ],
     "gallery": [
-      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1920&q=85",
       "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1200&q=80",
       "https://images.unsplash.com/photo-1484723091739-30a097e8f929?auto=format&fit=crop&w=1200&q=80",
       "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?auto=format&fit=crop&w=1200&q=80",
@@ -169,11 +169,47 @@
       "slug": "chilli-chutney-250ml",
       "price": 5.0,
       "price_type": "fixed",
-      "availability_status": "out_of_stock",
+      "availability_status": "in_stock",
       "currency_code": "USD",
       "category": "Preserves",
       "image_url": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=800&q=80",
-      "description": "Back soon — new batch bottles mid-month."
+      "description": "Slow-cooked fiery red chillies with apple cider vinegar and brown sugar."
+    },
+    {
+      "id": "itm_kmb_07",
+      "name": "Chimanimani Peaberry Coffee — 500g",
+      "slug": "chimanimani-peaberry-500g",
+      "price": 22.0,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "category": "Coffee",
+      "image_url": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
+      "description": "High-altitude eastern highlands peaberry with notes of wild honey and dark chocolate."
+    },
+    {
+      "id": "itm_kmb_08",
+      "name": "Cardamom & Orange Scones (Dozen)",
+      "slug": "cardamom-orange-scones",
+      "price": 9.0,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "category": "Bakes",
+      "image_url": "https://images.unsplash.com/photo-1586985289688-ca3cf47d3e6e?auto=format&fit=crop&w=800&q=80",
+      "description": "Warm spiced buttermilk scones baked fresh at dawn every single morning."
+    },
+    {
+      "id": "itm_kmb_09",
+      "name": "Avondale Artisanal Granola Jar — 750g",
+      "slug": "avondale-granola-jar",
+      "price": 8.5,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "category": "Pantry",
+      "image_url": "https://images.unsplash.com/photo-1517093709452-f4722521c7be?auto=format&fit=crop&w=800&q=80",
+      "description": "Toasted rolled oats, baobab powder, pumpkin seeds, macadamias and raw local honey."
     }
   ]
 }
