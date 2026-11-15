@@ -1,179 +1,180 @@
 {
-  "id": "biz_komborero",
-  "name": "Komborero Tea Room",
-  "slug": "komborero-tea-room",
+  "id": "biz_nexus_gadgets",
+  "name": "Nexus Cybernetics & Gadget Lab",
+  "slug": "nexus-gadget-lab",
   "city": "Harare",
   "area": "Avondale",
-  "areas": ["Avondale", "Milton Park", "Newlands"],
-  "bio": "A small-batch tea room and kitchen in Avondale. We roast our own coffee, bake every morning, and plate nostalgic Zimbabwean comfort food the way your aunt would: generous, unhurried, and always with seconds offered.",
+  "areas": ["Avondale", "Eastlea", "Borrowdale", "Newlands", "Harare CBD"],
+  "bio": "Harare's premier boutique for precision electronics, wearable tech, tactical EDC gadgets, and audiophile gear. All inventory verified authentic with official local warranty and instant WhatsApp concierge support.",
   "logo_url": null,
   "verified": true,
-  "rating": 4.8,
-  "review_count": 132,
-  "years_on_directory": 3,
-  "category": "Cafe",
-  "categories": ["Cafe", "Bakery", "Catering"],
-  "phone_clean": "263771234567",
+  "rating": 4.9,
+  "review_count": 184,
+  "years_on_directory": 4,
+  "category": "Gadgets & Electronics",
+  "categories": ["Gadgets", "Electronics", "Audio & Wearables", "Tech Lab"],
+  "phone_clean": "263771998877",
   "phone_type": "whatsapp",
   "voice_phone": null,
-  "email": "hello@komborero.co.zw",
-  "website": "https://komborero.co.zw",
-  "address": "12 King George Road, Avondale, Harare",
+  "email": "dispatch@nexusgadgets.co.zw",
+  "website": "https://nexusgadgets.co.zw",
+  "address": "Shop 14, Avondale Tech Hub, King George Rd, Harare",
   "lat": -17.7861,
   "lng": 31.0269,
   "show_location": true,
   "theme": {
-    "design": "editorial",
+    "design": "cyber",
     "orientation": "split",
     "font": "grotesk",
-    "accent": "#B45309",
-    "header": "",
-    "hero": "",
-    "shop": "",
-    "contact": "#1C1917"
+    "accent": "#00E5FF",
+    "header": "#080C12",
+    "hero": "#0B0F17",
+    "shop": "#080C12",
+    "contact": "#0B0F17"
   },
   "blocks": {
-    "tagline": "Small-batch coffee, morning bakes & plates that remember home",
-    "hero": "Roasted in the courtyard, baked before sunrise. Our Avondale tea room serves slow mornings, honest plates and the kind of coffee people cross town for.",
-    "services": "Fresh roast coffee & loose-leaf tea\nMorning bakes: vetkoek, scones & rusks\nAll-day breakfast & light lunches\nEvent platters & office catering\nPreserves, chutneys & takeaway blends",
+    "tagline": "Next-gen electronics, tactical EDC gear & high-fidelity audio hardware",
+    "hero": "Curated performance tech, unboxed and bench-tested before dispatch. From audiophile wireless acoustics to 140W GaN power stations and 4K aerial drones — order directly on WhatsApp with same-day express delivery across Harare.",
+    "services": "Official 12-Month Hardware Warranty\nBench Testing & Live Unboxing Demo\nDirect WhatsApp Technical Concierge\nSame-Day Harare Express Dispatch\nTrade-in & Hardware Upgrade Lab",
     "faq": [
       {
-        "q": "Can I order ahead on WhatsApp?",
-        "a": "Yes — send us your order on WhatsApp before 10:30 and it will be packed and waiting at the counter. Larger platters need a day's notice."
+        "q": "Are all gadgets brand new and genuine?",
+        "a": "Yes, 100% authentic sealed hardware sourced directly from verified regional distributors with manufacturer serial verification."
       },
       {
-        "q": "Is there parking nearby?",
-        "a": "There is free street parking along King George Road and a small gravel lot behind the building, shared with the florist next door."
+        "q": "How does instant WhatsApp ordering work?",
+        "a": "Select any gadget and your desired quantity, then tap 'Order on WhatsApp'. Your chat is preloaded with product specs and SKU. Our technician confirms payment details and delivery immediately."
       },
       {
-        "q": "Do you deliver?",
-        "a": "We deliver coffee beans and preserves across Harare's northern suburbs on Fridays. Hot food is collection-only for now."
+        "q": "What warranty and after-sales support do you provide?",
+        "a": "Every item includes our 12-month local replacement warranty. If a defect occurs, bring it in or courier it back for instant repair or replacement."
       },
       {
-        "q": "Can you cater private events?",
-        "a": "We cater up to 60 guests — teas, platters and dessert tables. Message us at least 48 hours ahead so we can plan the menu with you."
+        "q": "Do you deliver across Zimbabwe?",
+        "a": "We offer same-day express courier dispatch in Harare (within 2-4 hours) and reliable overnight freight to Bulawayo, Mutare, Gweru and Victoria Falls."
       }
     ],
     "hours": [
-      { "day": "Monday", "open": "07:00", "close": "17:00" },
-      { "day": "Tuesday", "open": "07:00", "close": "17:00" },
-      { "day": "Wednesday", "open": "07:00", "close": "17:00" },
-      { "day": "Thursday", "open": "07:00", "close": "17:00" },
-      { "day": "Friday", "open": "07:00", "close": "17:00" },
-      { "day": "Saturday", "open": "07:00", "close": "17:00" },
-      { "day": "Sunday", "open": "08:00", "close": "13:00" }
+      { "day": "Monday", "open": "08:30", "close": "18:00" },
+      { "day": "Tuesday", "open": "08:30", "close": "18:00" },
+      { "day": "Wednesday", "open": "08:30", "close": "18:00" },
+      { "day": "Thursday", "open": "08:30", "close": "18:00" },
+      { "day": "Friday", "open": "08:30", "close": "18:30" },
+      { "day": "Saturday", "open": "09:00", "close": "17:00" },
+      { "day": "Sunday", "open": "10:00", "close": "14:00" }
     ],
     "gallery": [
-      "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1484723091739-30a097e8f929?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1551024506-0bccd828d307?auto=format&fit=crop&w=1200&q=80"
+      "https://images.unsplash.com/photo-1550009158-9ebf69173e03?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=1200&q=80"
     ]
   },
   "testimonials": [
     {
       "rating": 5,
-      "comment": "The mbuya roast is the best cup of coffee I've had in Harare, and the vetkoek was still warm at 8am.",
-      "name": "Ropafadzo M.",
-      "created_at": "2026-09-14T10:20:00.000Z"
+      "comment": "The CyberPulse ANC headphones arrived sealed within 3 hours in Borrowdale. Sound stage is unreal and the WhatsApp concierge walked me through the EQ app.",
+      "name": "Kudakwashe T.",
+      "created_at": "2026-10-18T14:30:00.000Z"
     },
     {
       "rating": 5,
-      "comment": "Ordered platters for my mum's retirement do — delivered on time, beautifully arranged, and everyone asked who catered.",
-      "name": "Tinashe C.",
-      "created_at": "2026-06-02T15:45:00.000Z"
-    },
-    {
-      "rating": 4,
-      "comment": "Lovely quiet garden seating and honest prices. It does get busy on Saturdays after 10, so come early.",
-      "name": "Chipo N.",
-      "created_at": "2026-03-22T09:05:00.000Z"
+      "comment": "Best tech shop in Harare by far. Got the 140W GaN charger and mechanical keyboard; both genuine and running my entire MacBook workstation effortlessly.",
+      "name": "Tariro M.",
+      "created_at": "2026-08-04T11:15:00.000Z"
     },
     {
       "rating": 5,
-      "comment": "The chilli chutney alone is worth the drive across town. I buy three jars at a time.",
-      "name": "Blessing K.",
-      "created_at": "2025-11-30T12:30:00.000Z"
+      "comment": "Had an issue with my drone calibration, and their tech team replaced the rotor module under local warranty within 24 hours. Incredible after-sales service.",
+      "name": "Farai C.",
+      "created_at": "2026-05-19T09:40:00.000Z"
+    },
+    {
+      "rating": 5,
+      "comment": "Direct WhatsApp ordering with quantity picking is frictionless. No complicated checkouts, just instant replies and fast dispatch.",
+      "name": "Anesu K.",
+      "created_at": "2026-02-12T16:20:00.000Z"
     }
   ],
   "socials": {
-    "instagram": "https://instagram.com/komborero.tearoom",
-    "facebook": "https://facebook.com/KomboreroTeaRoom"
+    "instagram": "https://instagram.com/nexusgadgets",
+    "twitter": "https://x.com/nexusgadgets",
+    "youtube": "https://youtube.com/@nexusgadgetlab"
   },
   "items": [
     {
-      "id": "itm_kmb_01",
-      "name": "Mbuya Roast Coffee — 250g",
-      "slug": "mbuya-roast-coffee-250g",
-      "price": 12.0,
+      "id": "itm_nxs_01",
+      "name": "Apex CyberPulse ANC Headphones",
+      "slug": "apex-cyberpulse-anc-headphones",
+      "price": 249.0,
       "price_type": "fixed",
       "availability_status": "in_stock",
       "currency_code": "USD",
-      "category": "Coffee",
-      "image_url": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?auto=format&fit=crop&w=800&q=80",
-      "description": "Our signature medium roast, ground or whole bean."
+      "category": "Audio",
+      "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+      "description": "Hybrid active noise cancelling with 40mm beryllium acoustic drivers, 48h battery & ultra-low latency wireless DAC mode."
     },
     {
-      "id": "itm_kmb_02",
-      "name": "Vetkoek Six-Pack",
-      "slug": "vetkoek-six-pack",
-      "price": 6.0,
+      "id": "itm_nxs_02",
+      "name": "Vortex-75 Pro Wireless Mechanical Keyboard",
+      "slug": "vortex-75-pro-wireless-keyboard",
+      "price": 139.0,
       "price_type": "fixed",
       "availability_status": "in_stock",
       "currency_code": "USD",
-      "category": "Bakes",
-      "image_url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
-      "description": "Fried fresh each morning; best eaten the same day."
+      "category": "Hardware",
+      "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+      "description": "Gasket-mounted hot-swap mechanical keyboard with CNC aluminum chassis, PBT double-shot keycaps & tri-mode 2.4G/BT/USB-C."
     },
     {
-      "id": "itm_kmb_03",
-      "name": "Masau & Ginger Preserve — 250ml",
-      "slug": "masau-ginger-preserve-250ml",
-      "price": 7.5,
+      "id": "itm_nxs_03",
+      "name": "TitanCore 140W GaN Rapid Power Hub",
+      "slug": "titancore-140w-gan-rapid-hub",
+      "price": 65.0,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "category": "Power",
+      "image_url": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=800&q=80",
+      "description": "Quad-port GaN III fast charger with PD 3.1 140W single-port output and real-time OLED power readout telemetry."
+    },
+    {
+      "id": "itm_nxs_04",
+      "name": "AeroView 4K Ultra-Compact Drone",
+      "slug": "aeroview-4k-compact-drone",
+      "price": 499.0,
+      "price_type": "fixed",
+      "availability_status": "in_stock",
+      "currency_code": "USD",
+      "category": "Robotics",
+      "image_url": "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=800&q=80",
+      "description": "Sub-249g foldable 4K aerial drone with 3-axis mechanical gimbal, 38-minute flight time & 10km HD video transmission."
+    },
+    {
+      "id": "itm_nxs_05",
+      "name": "QuantumSync Biometric Smart Ring",
+      "slug": "quantumsync-smart-ring",
+      "price": 179.0,
       "price_type": "fixed",
       "availability_status": "available_on_order",
       "currency_code": "USD",
-      "category": "Preserves",
-      "image_url": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?auto=format&fit=crop&w=800&q=80",
-      "description": "Wild masau fruit with a warm ginger finish."
+      "category": "Wearables",
+      "image_url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
+      "description": "Aerospace titanium biometric ring tracking heart rate variability, sleep architecture & temperature with 7-day battery."
     },
     {
-      "id": "itm_kmb_04",
-      "name": "Full Platter (10 guests)",
-      "slug": "full-platter-10-guests",
-      "price": null,
-      "price_type": "on_request",
-      "availability_status": "availability_unknown",
-      "currency_code": "USD",
-      "category": "Catering",
-      "image_url": null,
-      "description": "Mixed savoury and sweet platters, quoted per event."
-    },
-    {
-      "id": "itm_kmb_05",
-      "name": "Cold Rooibos Iced Tea — 1L",
-      "slug": "cold-rooibos-iced-tea-1l",
-      "price": 4.5,
+      "id": "itm_nxs_06",
+      "name": "Lumina Neo Magnetic RGB Desk Beam",
+      "slug": "lumina-neo-magnetic-rgb-beam",
+      "price": 48.0,
       "price_type": "fixed",
       "availability_status": "in_stock",
       "currency_code": "USD",
-      "category": "Drinks",
-      "image_url": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=800&q=80",
-      "description": "Brewed rooibos over ice, lightly sweetened."
-    },
-    {
-      "id": "itm_kmb_06",
-      "name": "Chilli Chutney — 250ml",
-      "slug": "chilli-chutney-250ml",
-      "price": 5.0,
-      "price_type": "fixed",
-      "availability_status": "out_of_stock",
-      "currency_code": "USD",
-      "category": "Preserves",
-      "image_url": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=800&q=80",
-      "description": "Back soon — new batch bottles mid-month."
+      "category": "Smart Home",
+      "image_url": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?auto=format&fit=crop&w=800&q=80",
+      "description": "Stepless dimming, 16M RGB colours, ambient sound reactive lighting with wireless touch puck remote controller."
     }
   ]
 }
